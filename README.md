@@ -1,2 +1,2 @@
 # projects
-A collections of all personal projects i have created
+A collections of all personal projects I have created
